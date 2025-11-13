@@ -9,3 +9,4 @@ gTTS
 tqdm
 apscheduler
 python-telegram-bot
+lxml[html_clean]
